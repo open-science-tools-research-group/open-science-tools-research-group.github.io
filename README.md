@@ -1,6 +1,6 @@
 # Open Source Tools - Research Group webpage
 
-Based on Sustain theme for [Jekyll](http://jekyllrb.com/)
+Based on [Sustain](http://www.github.com/jekyller/sustain) theme for [Jekyll](http://jekyllrb.com/)
 
 
 ## Copyright & License
